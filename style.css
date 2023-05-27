@@ -544,9 +544,9 @@ form .btn input[type="submit"]{
 
 .abtheading{
     text-align: center;
-    color: #dd7b7d;
+    color: #383E56;
     margin-top: 100px;
-    margin-bottom: 70px;
+    margin-bottom: 150px;
     font-size: 2.2rem;
   }
 
@@ -557,7 +557,7 @@ form .btn input[type="submit"]{
     display: inline-block;
     text-align: center;
     color: #383E56;
-    background-color: #f0abac;
+    background-color: #383E56;
     margin-left: 100px;
     margin-right: 140px;
     -webkit-animation: movers11 2s alternate;
@@ -580,7 +580,7 @@ form .btn input[type="submit"]{
         display: inline-block;
         text-align: center;
         color: #383E56;
-        background-color: #f0abac;
+        background-color: #383E56;
         margin-left: 100px;
         margin-right: 140px;
         -webkit-animation: movers12 2s alternate;
@@ -643,6 +643,7 @@ form .btn input[type="submit"]{
 .serd{
     background-color: #D9D9D9;
     height: 780px;
+    margin-top: 100px;
 }
 
 
@@ -656,15 +657,11 @@ form .btn input[type="submit"]{
     width: 35%;
     padding: 12px 20px;
     margin: 8px 0;
-    background-color: #383D4D;
     display: inline-block;
     border-radius: 15px 50px;
-    color: #BEFFFF;
-    
   }
   
   input[type=text]:focus {
-    background-color: #BEFFFF;
     color: black;
   }
 .contf{
@@ -695,7 +692,8 @@ form .btn input[type="submit"]{
     animation: glowing 50s infinite;
   }
 .contact{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+    height: 580px;
 }
 .ab{
     height: 770px;
@@ -752,8 +750,8 @@ form .btn input[type="submit"]{
   }
   
   .flip-card-back {
-    background-color: #ee9fa1;
-    color: #383E56;
-    transform: rotateY(180deg);
+    background-color: #383E56;
+    color: white;
+    transform: rotateY(200deg);
     border-radius: 10px;
   }
